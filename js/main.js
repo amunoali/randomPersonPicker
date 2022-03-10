@@ -14,7 +14,7 @@ document.querySelector('button').addEventListener('click', () =>{
         <div class="card-body">
           <h5 class="card-title">${name}</h5>
           <p class="card-text">${location}</p>
-          <a href="#" class="primary">${email}</a>
+          // <a href="#" class="primary">${email}</a>
         </div>
       </div> 
         `
