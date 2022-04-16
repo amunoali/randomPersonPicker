@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+}
+.btn, .primary{
+    margin-top: 1rem;
+    display: inline-block;
+    font-size: 1.3rem;
+    color: #fff;
+    background: #182e64;
+    border-radius: .5rem;
+    cursor: pointer;
+    padding:.8rem 3rem;
+}
+.btn:hover{
+    background: #18a62d;
+    letter-spacing: .1rem;
+    transition: .2s;
+}
+.primary{
+    font-size: 0.5rem;
+    padding:.5rem 1rem;
+    margin-top: 0;
+
+}
+.container{
+    margin-top: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
