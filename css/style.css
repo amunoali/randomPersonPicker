@@ -35,3 +35,7 @@ body{
     flex-wrap: wrap;
     padding: 1rem 2rem;
 }
+
+h1{
+    margin-top: 2rem;
+}
